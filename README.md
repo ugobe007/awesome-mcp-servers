@@ -64,6 +64,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📱 - [Social Media](#social-media)
 - 🎮 - [Gaming](#gaming)
 - 💹 - [Finance](#finance)
+- - [Merlin Energy](https://github.com/ugobe007/merlin-mcp-agent) - AI-powered BESS quoting & sales intelligence. TrueQuote™ estimates, lead qualification, competitor battle cards, and proposals — inside Claude.
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
 - 💻 - [Development Tools](#development-tools)
